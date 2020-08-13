@@ -3,8 +3,6 @@ const minimist = require("minimist");
 const svg = require("./commands/inject-svg");
 const css = require("./commands/build-css");
 
-console.log(svg, css);
-
 const args = minimist(process.argv.slice(2));
 const cmd = args._[0];
 
