@@ -1,5 +1,5 @@
 {
-  "name": "@orgname/storybook",
+  "name": "@org_name/storybook",
   "version": "1.0.0",
   "devDependencies": {
     "@babel/core": "^7.11.1",
@@ -13,7 +13,7 @@
     "svelte-loader": "^2.13.6"
   },
   "dependencies": {
-		"@orgname/kit": "*"
+		"@org_name/kit": "*"
 	},
 	"scripts": {
 		"dev": "yarn kit:svg & start-storybook -p 3002 -s ../domain/static/",

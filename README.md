@@ -1,4 +1,4 @@
-# projectName
+# project_name
 
 This is a repository containing all web sites and web apps that Wayout has.
 

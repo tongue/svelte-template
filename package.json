@@ -6,11 +6,12 @@
     "storybook"
   ],
   "scripts": {
-    "dev:storybook": "yarn workspace @orgname/storybook dev",
-    "dev:domain": "yarn workspace @orgname/domain dev",
+    "dev:storybook": "yarn workspace @org_name/storybook dev",
+    "dev:domain": "yarn workspace @org_name/domain dev",
     "dev": "yarn dev:domain & yarn dev:storybook",
-    "build:storybook": "yarn workspace @orgname/storybook build",
-    "build:domain": "yarn workspace @orgname/domain build",
-    "export:domain": "yarn workspace @orgname/domain export"
+    "build:storybook": "yarn workspace @org_name/storybook build",
+    "build:domain": "yarn workspace @org_name/domain build",
+    "export:domain": "yarn workspace @org_name/domain export"
   }
 }
+

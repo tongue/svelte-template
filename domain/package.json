@@ -1,5 +1,5 @@
 {
-  "name": "@orgname/domain",
+  "name": "@org_name/domain",
   "description": "TODO",
   "version": "0.0.1",
   "scripts": {
@@ -36,6 +36,7 @@
     "rollup-plugin-terser": "^6.1.0",
     "sapper": "^0.28.0",
     "svelte": "^3.17.3",
-    "@orgname/kit": "*"
+    "@org_name/kit": "*"
   }
 }
+
